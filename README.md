@@ -1,6 +1,7 @@
 # Learning Processing Python-mode
 
-Based on videos/tutorials by: [The Coding Train](https://www.youtube.com/user/shiffman) which is in java (processing) / javascript (P5.js).
+Some of them based on videos/tutorials by: 
+[The Coding Train](https://www.youtube.com/user/shiffman) which is in java (processing) / javascript (P5.js).
 
 ### [Random walk - Link to video](https://youtu.be/5pGEEzm9H7A)
 

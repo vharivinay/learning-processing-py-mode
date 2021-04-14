@@ -82,6 +82,6 @@ def draw():
     for i in points:
         point(i.x,i.y)
     
-    saveFrame('frames/fractal_####.png')
+    # saveFrame('frames/fractal_####.png')
     
     print(frameCount)

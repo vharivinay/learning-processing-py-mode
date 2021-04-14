@@ -26,3 +26,7 @@ Some of them based on videos/tutorials by:
 ### [The chaos game - Link to video](https://youtu.be/gZT9i0aMzfw)
 
 [![The chaos game](https://img.youtube.com/vi/gZT9i0aMzfw/0.jpg)](https://youtu.be/gZT9i0aMzfw)
+
+### [Barnsley fern - Link to video](https://youtu.be/kffU12GTFLs)
+
+[![Barnsley fern](https://img.youtube.com/vi/kffU12GTFLs/0.jpg)](https://youtu.be/kffU12GTFLs)

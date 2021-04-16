@@ -30,3 +30,7 @@ Some of them based on videos/tutorials by:
 ### [Barnsley fern - Link to video](https://youtu.be/kffU12GTFLs)
 
 [![Barnsley fern](https://img.youtube.com/vi/kffU12GTFLs/0.jpg)](https://youtu.be/kffU12GTFLs)
+
+### [Random Fractal Trees - Link to video](https://youtu.be/7TkJOy2NrxU)
+
+[![Random Fractal Trees](https://img.youtube.com/vi/7TkJOy2NrxU/0.jpg)](https://youtu.be/7TkJOy2NrxU)

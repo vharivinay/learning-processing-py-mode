@@ -4,18 +4,14 @@ def setup():
     background(0)
     translate(width/2, height)
     colorMode(RGB)
-    # hu = 125
-    # tree(275)
-    # saveFrame('trees/frcatalTrees_####.png')
     
 def tree(len_):
     global width, height, hu
     
-    r = random(0.65,0.75)
-    angle = radians(random(10,75)) 
+    # r = random(0.65,0.75)
+    # angle = radians(random(10,75)) 
     lenfactor = 1
-    # hu = 255 * r/angle
-    # stroke(hu,255,255)
+
     stroke(165,42,42)
     strokeWeight(1)
     if len_ < 20:
@@ -26,11 +22,15 @@ def tree(len_):
     translate(0,-len_)
     if len_ > 3:
         push()
+        angle = radians(random(10,75)) 
         rotate(angle)
+        r = random(0.65,0.75)
         tree(len_ * lenfactor * r)
         pop()
         push()
+        angle = radians(random(10,75)) 
         rotate(-angle)
+        r = random(0.65,0.75)
         tree(len_ * lenfactor * r)
         pop()
     

@@ -34,3 +34,7 @@ Some of them based on videos/tutorials by:
 ### [Random Fractal Trees - Link to video](https://youtu.be/7TkJOy2NrxU)
 
 [![Random Fractal Trees](https://img.youtube.com/vi/7TkJOy2NrxU/0.jpg)](https://youtu.be/7TkJOy2NrxU)
+
+### [Menger Sponge - Link to video](https://youtu.be/hm-iaSsmGQs)
+
+[![Menger Sponge](https://img.youtube.com/vi/hm-iaSsmGQs/0.jpg)](https://youtu.be/hm-iaSsmGQs)

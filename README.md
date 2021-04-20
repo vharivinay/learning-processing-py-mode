@@ -39,6 +39,6 @@ Some of them based on videos/tutorials by:
 
 [![Menger Sponge](https://img.youtube.com/vi/hm-iaSsmGQs/0.jpg)](https://youtu.be/hm-iaSsmGQs)
 
-### [Ripples in 2D - Link to video](https://youtu.be/QmKGyGn0dU)
+### [Ripples in 2D - Link to video](https://youtu.be/7TkJOy2NrxU)
 
-[![Ripples in 2D](https://img.youtube.com/vi/QmKGyGn0dU/0.jpg)](https://youtu.be/QmKGyGn0dU)
+[![Ripples in 2D](https://img.youtube.com/vi/7TkJOy2NrxU/0.jpg)](https://youtu.be/7TkJOy2NrxU)

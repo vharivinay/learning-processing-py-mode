@@ -43,6 +43,6 @@ Some of them based on videos/tutorials by:
 
 [![Ripples in 2D](https://img.youtube.com/vi/-QmKGyGn0dU/0.jpg)](https://youtu.be/-QmKGyGn0dU)
 
-### [Snowflake - Link to render](https://youtu.be/-wXRxAl4DXig)
+### [Snowflake - Link to render](https://youtu.be/wXRxAl4DXig)
 
-[![Snowflake](https://img.youtube.com/vi/-wXRxAl4DXig/0.jpg)](https://youtu.be/-wXRxAl4DXig)
+[![Snowflake](https://img.youtube.com/vi/wXRxAl4DXig/0.jpg)](https://youtu.be/wXRxAl4DXig)

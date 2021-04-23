@@ -46,3 +46,8 @@ Some of them based on videos/tutorials by:
 ### [Snowflake - Link to render](https://youtu.be/wXRxAl4DXig)
 
 [![Snowflake](https://img.youtube.com/vi/wXRxAl4DXig/0.jpg)](https://youtu.be/wXRxAl4DXig)
+
+### [Circle packing - Link to render](https://youtu.be/zLQPtpcQMbU)
+
+[![Circle packing](https://img.youtube.com/vi/zLQPtpcQMbU/0.jpg)](https://youtu.be/zLQPtpcQMbU)
+

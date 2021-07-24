@@ -18,10 +18,10 @@ class Particle:
     def show(self):
         # noFill()
         hu = dist(0,0,self.pos.x,self.pos.y)
-        hu = map(hu,0,width/2,100,255)
+        hu = map(hu,0,width/3,100,255)
         fill(hu,255,255,225)
-        noStroke()
-        # stroke(hu,255,255,150)
+        #noStroke()
+        stroke(hu,255,255,150)
         # strokeWeight(5)
         # point(self.pos.x,self.pos.y)
         ellipse(self.pos.x, self.pos.y, self.rad*2, self.rad*2)
@@ -41,11 +41,11 @@ class Particle:
                 
 def setup():
     global current, snowFlake, gap
-    size(1000,1000)
-    colorMode(RGB)
+    size(600,600)
+    colorMode(HSB)
     snowFlake = []
     gap = 25
-    current = Particle(width/2 - gap,random(0,10))
+    current = Particle(width/3 - gap,random(-10,10))
     
 def draw():
     global current, snowFlake, gap
@@ -59,7 +59,7 @@ def draw():
         current.update()
         
     snowFlake.append(current)
-    current = Particle(width/2 - gap, 0)
+    current = Particle(width/3 - gap, 0)
 
     for i in range(6):
         rotate(PI/3)
